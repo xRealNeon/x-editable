@@ -23,7 +23,7 @@ Bootstrap 4 build:
 <script src="https://cdn.jsdelivr.net/gh/xRealNeon/x-editable@1.5.5/dist/bootstrap4-editable/js/bootstrap-editable.min.js"></script>
 ````
 
-> For older builds visit the [original repository](https://github.com/vitalets/x-editable)
+> For older builds visit the [original repository](https://github.com/vitalets/x-editable#cdn)
 
 ## License
 Copyright (c) 2012 Vitaliy Potapov - 2020 NeoCode
