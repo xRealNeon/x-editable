@@ -1,7 +1,7 @@
 /*! X-editable - v1.5.3 
 * In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery
 * http://github.com/vitalets/x-editable
-* Copyright (c) 2018 Vitaliy Potapov; Licensed MIT */
+* Copyright (c) 2020 Vitaliy Potapov; Licensed MIT */
 /**
 Form with single input element, two buttons and two states: normal/loading.
 Applied as jQuery method to DIV tag (not to form tag!). This is because form can be in loading state when spinner shown.
@@ -4754,7 +4754,7 @@ Editableform based on Twitter Bootstrap 3
       '<button type="submit" class="btn btn-primary btn-sm editable-submit">'+
         '<i class="fa fa-check" aria-hidden="true"></i>'+
       '</button>'+
-      '<button type="button" class="btn btn-default btn-sm editable-cancel">'+
+      '<button type="button" class="btn btn-danger btn-sm editable-cancel">'+
         '<i class="fa fa-times" aria-hidden="true"></i>'+
       '</button>';         
     
