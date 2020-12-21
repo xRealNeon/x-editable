@@ -33,8 +33,8 @@ bower install x-editable
 ### CDN
 Bootstrap 4 build:
 ````html
-<link href="https://cdn.jsdelivr.net/gh/xRealNeon/x-editable@1.5.3/dist/bootstrap4-editable/css/bootstrap-editable.css" rel="stylesheet"/>
-<script src="https://cdn.jsdelivr.net/gh/xRealNeon/x-editable@1.5.3/dist/bootstrap4-editable/js/bootstrap-editable.min.js"></script>
+<link href="https://cdn.jsdelivr.net/gh/xRealNeon/x-editable@1.5.4/dist/bootstrap4-editable/css/bootstrap-editable.css" rel="stylesheet"/>
+<script src="https://cdn.jsdelivr.net/gh/xRealNeon/x-editable@1.5.4/dist/bootstrap4-editable/js/bootstrap-editable.min.js"></script>
 ````
 
 Bootstrap 3 build:
