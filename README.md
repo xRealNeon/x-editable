@@ -7,7 +7,7 @@ In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery - Updated to B
 * ✅ Text
 * ✅ TextArea
 * ✅ Select
-* ❌ Error Handling
+* ✅ Error Handling
 
 ## Live Demo
 **https://xrealneon.github.io/x-editable/demo-bs4.html?c=inline**
@@ -26,8 +26,8 @@ Maintained sort of 😉
 ### CDN
 Bootstrap 4 build:
 ````html
-<link href="https://cdn.jsdelivr.net/gh/xRealNeon/x-editable@1.5.4/dist/bootstrap4-editable/css/bootstrap-editable.min.css" rel="stylesheet"/>
-<script src="https://cdn.jsdelivr.net/gh/xRealNeon/x-editable@1.5.4/dist/bootstrap4-editable/js/bootstrap-editable.min.js"></script>
+<link href="https://cdn.jsdelivr.net/gh/xRealNeon/x-editable@1.5.5/dist/bootstrap4-editable/css/bootstrap-editable.min.css" rel="stylesheet"/>
+<script src="https://cdn.jsdelivr.net/gh/xRealNeon/x-editable@1.5.5/dist/bootstrap4-editable/js/bootstrap-editable.min.js"></script>
 ````
 
 Bootstrap 3 build:
