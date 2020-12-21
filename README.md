@@ -1,6 +1,8 @@
 # X-editable
 In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery - Updated to BS4
 
+[![](https://data.jsdelivr.com/v1/package/gh/xRealNeon/x-editable/badge)](https://www.jsdelivr.com/package/gh/xRealNeon/x-editable)
+
 ## Bootstrap4 Support
 * ✅ Text
 * ✅ TextArea
