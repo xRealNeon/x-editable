@@ -174,7 +174,7 @@ Editableform is linked with one of input types, e.g. 'text', 'select' etc.
             var $group = this.$form.find('.control-group'),
                 $block = this.$form.find('.editable-error-block'),
                 lines;
-
+   
             if(msg === false) {
                 $group.removeClass($.fn.editableform.errorGroupClass);
                 $block.removeClass($.fn.editableform.errorBlockClass).empty().hide(); 
@@ -187,6 +187,7 @@ Editableform is linked with one of input types, e.g. 'text', 'select' etc.
                     }
                     msg = lines.join('<br>');
                 }
+                this.$form.find('.form-control').addClass('is-invalid');
                 $group.addClass($.fn.editableform.errorGroupClass);
                 $block.addClass($.fn.editableform.errorBlockClass).html(msg).show();
             }
@@ -614,7 +615,7 @@ Editableform is linked with one of input types, e.g. 'text', 'select' etc.
     $.fn.editableform.template = '<form class="form-inline editableform">'+
     '<div class="control-group">' + 
     '<div><div class="editable-input"></div><div class="editable-buttons"></div></div>'+
-    '<div class="editable-error-block"></div>' + 
+    '<div class="editable-error-block invalid-feedback"></div>' + 
     '</div>' + 
     '</form>';
 
