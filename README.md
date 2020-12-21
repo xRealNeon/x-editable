@@ -1,5 +1,5 @@
 # X-editable
-In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.  
+In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery - Updated to BS4
 
 ## Live Demo
 **https://xrealneon.github.io/x-editable/demo-bs4.html?c=inline**
