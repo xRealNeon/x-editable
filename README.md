@@ -30,29 +30,7 @@ Bootstrap 4 build:
 <script src="https://cdn.jsdelivr.net/gh/xRealNeon/x-editable@1.5.5/dist/bootstrap4-editable/js/bootstrap-editable.min.js"></script>
 ````
 
-Bootstrap 3 build:
-````html
-<link href="//cdnjs.cloudflare.com/ajax/libs/x-editable/1.5.0/bootstrap3-editable/css/bootstrap-editable.css" rel="stylesheet"/>
-<script src="//cdnjs.cloudflare.com/ajax/libs/x-editable/1.5.0/bootstrap3-editable/js/bootstrap-editable.min.js"></script>
-````
-
-Bootstrap 2 build:
-````html
-<link href="//cdnjs.cloudflare.com/ajax/libs/x-editable/1.5.0/bootstrap-editable/css/bootstrap-editable.css" rel="stylesheet"/>
-<script src="//cdnjs.cloudflare.com/ajax/libs/x-editable/1.5.0/bootstrap-editable/js/bootstrap-editable.min.js"></script>
-````
-
-jQuery UI build:
-````html
-<link href="//cdnjs.cloudflare.com/ajax/libs/x-editable/1.5.0/jqueryui-editable/css/jqueryui-editable.css" rel="stylesheet"/>
-<script src="//cdnjs.cloudflare.com/ajax/libs/x-editable/1.5.0/jqueryui-editable/js/jqueryui-editable.min.js"></script>
-````
-
-jQuery only build:
-````html
-<link href="//cdnjs.cloudflare.com/ajax/libs/x-editable/1.5.0/jquery-editable/css/jquery-editable.css" rel="stylesheet"/>
-<script src="//cdnjs.cloudflare.com/ajax/libs/x-editable/1.5.0/jquery-editable/js/jquery-editable-poshytip.min.js"></script>
-````
+> For older builds visit the [original repository](https://github.com/vitalets/x-editable)
 
 ## License
 Copyright (c) 2012 Vitaliy Potapov - 2020 NeoCode
