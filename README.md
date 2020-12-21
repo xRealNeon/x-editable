@@ -1,9 +1,9 @@
 # X-editable
-In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery - Updated to BS4
+In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery - Updated to Bootstrap 4
 
 [![](https://data.jsdelivr.com/v1/package/gh/xRealNeon/x-editable/badge)](https://www.jsdelivr.com/package/gh/xRealNeon/x-editable)
 
-## Bootstrap4 Support
+## Bootstrap 4 Support
 * ✅ Text
 * ✅ TextArea
 * ✅ Select
@@ -19,7 +19,7 @@ Unfortunately, due to this project being supported by volunteers we cannot provi
 **http://vitalets.github.io/x-editable**
 
 ## Project Status
-Actively Maintained (sort of 😉)
+Maintained sort of 😉
 
 ## How to get it
 
