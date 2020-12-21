@@ -1,6 +1,12 @@
 # X-editable
 In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery - Updated to BS4
 
+## Bootstrap4 Support
+* ✅ Text
+* ✅ TextArea
+* ✅ Select
+* ❌ Error Handling
+
 ## Live Demo
 **https://xrealneon.github.io/x-editable/demo-bs4.html?c=inline**
 
