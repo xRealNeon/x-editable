@@ -2,7 +2,7 @@
 In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.  
 
 ## Live Demo
-**http://vitalets.github.io/x-editable/demo.html**
+**https://xrealneon.github.io/x-editable/demo-bs4.html?c=inline**
 
 ## Pull Requests
 Please submit all Pull Requests to the `develop` branch: https://github.com/vitalets/x-editable/tree/develop  
