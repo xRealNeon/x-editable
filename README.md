@@ -9,6 +9,7 @@ In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery - Updated to B
 * ✅ Text
 * ✅ TextArea
 * ✅ Select
+* ✅ Combodate
 * ✅ Error Handling
 
 ## Project Status
